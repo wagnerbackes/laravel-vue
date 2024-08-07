@@ -18,7 +18,6 @@ Desenvolver uma aplicação web para gerenciar cursos, incluindo interface de us
 
 * Link compartilhável do repositório no Github
 * README com instruções de execução do projeto
-* Prazo de entrega: 1 semana
 
 **Critérios de Avaliação**
 
