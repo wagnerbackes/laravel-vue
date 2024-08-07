@@ -1,6 +1,3 @@
-**Arquivo README (atualizado)**
-====================================
-
 Software de Gerenciamento de Cursos
 -----------------------------------
 
